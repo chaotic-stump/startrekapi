@@ -1,2 +1,5 @@
+@import './base/settings';
 @import './base/base';
-@import './components/_header.scss';
+@import './components/header';
+@import './components/container';
+@import './components/button';
