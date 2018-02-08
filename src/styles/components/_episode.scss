@@ -1,0 +1,12 @@
+.list {
+  display:flex;
+  flex-direction:column;
+  padding:0;
+}
+
+.list__episode {
+  list-style-type: none;
+  margin: $m-size $s-size;
+  padding: 0 0 0 $s-size;
+  line-height: 2.2rem;
+}
